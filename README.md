@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VihanTechDev
-<!--- - 👀 I’m interested in machine learning. --->
 - 🌱 Skills: Python, HTML5, CSS, JS
 - 😄 Pronouns: He/Him
+<!--- - 👀 I’m interested in machine learning. --->
 
 <!---
 VihanTechDev/VihanTechDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
