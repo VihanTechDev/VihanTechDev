@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VihanTechDev
-- 🌱 Skills: Python, HTML5, CSS, JS
+- 🌱 Skills: Python, HTML5, CSS, JS, C++, Java
 - 😄 Pronouns: He/Him
 <!--- - 👀 I’m interested in machine learning. --->
 
