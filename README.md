@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VihanTechDev
-- 👀 I’m interested in machine learning.
+<!--- - 👀 I’m interested in machine learning. --->
 - 🌱 Skills: Python, HTML5, CSS, JS
 - 😄 Pronouns: He/Him
 
